@@ -4,5 +4,6 @@ Naive solutions
 No tests, no exception handling 🤷‍♂️
 
 Let's see if I'll arrive to better coding practices by the end of it
+> Apparently, not.
 
 [Advent of Code](https://adventofcode.com/)
